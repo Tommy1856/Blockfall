@@ -8,4 +8,6 @@ My re-creation takes a sightly different approach. Instead of the player attempt
 
 There are three levels, starting with an easy, introduction, then moving on to the intermediate and final the hardest level that requires quick reaction to break the blocks and move on.
 
+Check out the video on my YouTube Channel: https://youtu.be/3ivFYCGlli4
+
 
